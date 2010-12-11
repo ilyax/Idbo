@@ -1,0 +1,14 @@
+D:\Projects\idboDemo\idboDemo\bin\Debug\idboDemo.exe
+D:\Projects\idboDemo\idboDemo\bin\Debug\idboDemo.pdb
+D:\Projects\idboDemo\idboDemo\bin\Debug\Idbo.dll
+D:\Projects\idboDemo\idboDemo\bin\Debug\idboEntity.dll
+D:\Projects\idboDemo\idboDemo\bin\Debug\Db4objects.Db4o.dll
+D:\Projects\idboDemo\idboDemo\bin\Debug\Db4objects.Db4o.Linq.dll
+D:\Projects\idboDemo\idboDemo\bin\Debug\Cecil.FlowAnalysis.dll
+D:\Projects\idboDemo\idboDemo\bin\Debug\Mono.Cecil.dll
+D:\Projects\idboDemo\idboDemo\bin\Debug\idboEntity.pdb
+D:\Projects\idboDemo\idboDemo\bin\Debug\Idbo.pdb
+D:\Projects\idboDemo\idboDemo\bin\Debug\Db4objects.Db4o.xml
+D:\Projects\idboDemo\idboDemo\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Projects\idboDemo\idboDemo\obj\x86\Debug\idboDemo.exe
+D:\Projects\idboDemo\idboDemo\obj\x86\Debug\idboDemo.pdb

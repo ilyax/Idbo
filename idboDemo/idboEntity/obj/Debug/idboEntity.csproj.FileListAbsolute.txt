@@ -1,0 +1,5 @@
+D:\Projects\idboDemo\idboEntity\bin\Debug\idboEntity.dll
+D:\Projects\idboDemo\idboEntity\bin\Debug\idboEntity.pdb
+D:\Projects\idboDemo\idboEntity\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\idboDemo\idboEntity\obj\Debug\idboEntity.dll
+D:\Projects\idboDemo\idboEntity\obj\Debug\idboEntity.pdb
